@@ -4,8 +4,9 @@ https://favicon-generator.mintsu-dev.com/
 
 
 ```
-32*32
+PC: 32*32
 
+mb: 128*128
 ```
 
 ```
