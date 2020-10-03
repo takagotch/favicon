@@ -2,11 +2,12 @@
 ---
 https://favicon-generator.mintsu-dev.com/
 
+https://ao-system.net/favicongenerator/
 
 ```
-PC: 32*32
+favicon.ico: 32*32
 
-mb: 128*128
+apple-touch-icon.png: 128*128
 ```
 
 ```
